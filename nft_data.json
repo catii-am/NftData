@@ -2,6 +2,7 @@
    "name": "Daily Ticket",
    "description": "Daily ticket to enter the TONMinutes game",
    "image": "https://i.ibb.co/XVYxPJz/ticket.png",
+   "content_url": "https://i.ibb.co/XVYxPJz/ticket.png",
    "attributes": [
     "trait_type": "tournament",
     "value": "Daily"
