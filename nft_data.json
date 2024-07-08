@@ -1,10 +1,11 @@
 {
-   "name": "Daily Ticket",
-   "description": "Daily ticket to enter the TONMinutes game",
-   "image": "https://i.ibb.co/XVYxPJz/ticket.png",
-   "content_url": "https://i.ibb.co/XVYxPJz/ticket.png",
-   "attributes": [
-    "trait_type": "tournament",
-    "value": "Daily"
-   ]
+  "name": "Daily Ticket",
+  "image": "https://raw.githubusercontent.com/catii-am/NftData/main/ticket1.png",
+  "attributes": [
+    {
+      "trait_type": "Tournament",
+      "value": "Daily"
+    }
+  ],
+  "description": "Daily ticket to enter the TONMinutes game"
 }
