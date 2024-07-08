@@ -1,0 +1,9 @@
+{
+  "image": ""
+  "name": "Daily Ticket"
+  "description": "Daily ticket to enter the TONMinutes game"
+  "attributes": [
+    "trait_type": "tournament"
+    "value": "Daily"
+  ]
+}
